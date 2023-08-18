@@ -114,6 +114,10 @@ strong{
     font-style: normal;
     display: block;          
 }
+
+.purple{
+    color: rgba(109, 24, 121, 0.959);
+}
 .socialmedia{
     display: flex;
     flex-direction: row;
@@ -142,6 +146,11 @@ strong{
     margin-right: 5vw;
     font-size: 22px;
     transition: 1s;
+}
+
+#contact a{
+    color: rgba(109, 24, 121, 0.959);
+
 }
 
 #contact :hover{
@@ -331,7 +340,7 @@ strong{
         }
 
         .purple {
-            color: rgba(65, 17, 71, 0.733);
+            color: rgba(109, 24, 121, 0.959);
         }
     
         .socialmedia {
@@ -362,7 +371,10 @@ strong{
         #contact {
             font-size: 40px;
             margin-top: 15px;
-            color: rgba(65, 17, 71, 0.733);
+        }
+
+        #contact a {
+            color: rgba(109, 24, 121, 0.959);
         }
 
         #contact :hover{
