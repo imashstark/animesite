@@ -327,6 +327,11 @@ strong{
             font-size: 5vw;
             height: 48vw;
             padding: 1%;
+            
+        }
+
+        .purple {
+            color: rgba(65, 17, 71, 0.733);
         }
     
         .socialmedia {
@@ -357,6 +362,7 @@ strong{
         #contact {
             font-size: 40px;
             margin-top: 15px;
+            color: rgba(65, 17, 71, 0.733);
         }
 
         #contact :hover{
